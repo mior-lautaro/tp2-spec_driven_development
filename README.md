@@ -7,9 +7,9 @@
 
 ## Integrante
 
-- **Nombre y Apellido:** <Lautaro Mior>
+- **Nombre y Apellido:** Lautaro Mior
 - **Correo electrónico:** <lautamior@gmail.com>
-- **GitHub:** <mior-lautaro>
+- **GitHub:** mior-lautaro
 
 ---
 
